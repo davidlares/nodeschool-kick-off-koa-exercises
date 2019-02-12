@@ -9,7 +9,7 @@ It pretty much contains fundamentals examples for the KoaJS Framework (NodeJS) c
 For this exercises, the version used is the 2.x of it, but it doesn't change a lot compared to the 3.x 
 of it.
 
-	- [Koa Framework](https://koajs.com/)
+- [Koa Framework](https://koajs.com/)
 
 ## Personal Note
 
